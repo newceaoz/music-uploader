@@ -1,0 +1,14 @@
+User
+	id
+	name
+	type
+
+Music
+	id
+	name
+	composer
+	arranger
+	performer
+	file_name
+	user_id
+	upload_date
